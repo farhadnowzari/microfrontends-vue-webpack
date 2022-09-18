@@ -1,0 +1,6 @@
+{
+    "name": "notifications",
+    "exposes": {
+        "./NotificationsList.vue": "./src/components/NotificationsList.vue"
+    }
+}
